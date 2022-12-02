@@ -1,0 +1,9 @@
+D:\1Рабочий стол\2Учёба\Курсач_3_сем\Kursovik\Kursovik\Debug\Kursovik.vcxproj.AssemblyReference.cache
+D:\1Рабочий стол\2Учёба\Курсач_3_сем\Kursovik\Kursovik\Debug\Kursovik.MainForm.resources
+D:\1Рабочий стол\2Учёба\Курсач_3_сем\Kursovik\Kursovik\Debug\Kursovik.vcxproj.GenerateResource.cache
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Lab1\Kursovik\Kursovik\Debug\Kursovik.vcxproj.AssemblyReference.cache
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Lab1\Kursovik\Kursovik\Debug\Kursovik.MainForm.resources
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Lab1\Kursovik\Kursovik\Debug\Kursovik.vcxproj.GenerateResource.cache
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Kursovik\Kursovik\Debug\Kursovik.vcxproj.AssemblyReference.cache
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Kursovik\Kursovik\Debug\Kursovik.MainForm.resources
+D:\1Рабочий стол\2Учёба\4_сем\ТИ\Kursovik\Kursovik\Debug\Kursovik.vcxproj.GenerateResource.cache
